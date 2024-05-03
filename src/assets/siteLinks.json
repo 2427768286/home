@@ -5,7 +5,7 @@
     "link": "https://blog.stardream.online/"
   },
   {
-    "icon": "Archive",
+    "icon": "Server",
     "name": "探针",
     "link": "https://tz.stardream.online/"
   },
@@ -18,5 +18,10 @@
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.stardream.online/"
+  },
+    {
+    "icon": "AnalyticsOutlined",
+    "name": "访问统计",
+    "link": "https://uma.lolihouse.top/share/sQwreebRSTCOaJBI/www.stardream.online"
   }
 ]
