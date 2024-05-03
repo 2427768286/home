@@ -64,11 +64,8 @@ const siteLinksList = computed(() => {
 // 网站链接图标
 const siteIcon = {
   Blog,
-  Cloud,
-  CompactDisc,
-  Compass,
-  Book,
-  Fire,
+  Archive,
+  Box,
   LaptopCode,
 };
 
