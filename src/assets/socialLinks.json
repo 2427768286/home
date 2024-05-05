@@ -1,5 +1,11 @@
 [
   {
+    "name": "Github",
+    "icon": "/images/icon/github.png",
+    "tip": "can can word Gayhub",
+    "url": "https://github.com/STRDM-User"
+  },
+  {
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
